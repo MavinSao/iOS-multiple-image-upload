@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-alamofire-multi-image/Pods-alamofire-multi-image-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/BSImagePicker/BSImagePicker.framework
+${BUILT_PRODUCTS_DIR}/ImageSlideshow/ImageSlideshow.framework
